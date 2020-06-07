@@ -10928,3 +10928,18 @@ a.text-dark:focus {
   }
 }
 
+body {
+  background-color: #282828;
+  color: #d3d3d3;
+}
+
+.navbar-light .navbar-brand,
+.navbar-light .navbar-nav .nav-link {
+  color: #d3d3d3 !important;
+}
+
+.dropdown-menu {
+  background-color: #282828 !important;
+  color: #d3d3d3 !important;
+}
+
